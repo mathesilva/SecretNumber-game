@@ -24,7 +24,7 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/jogo-numero-secreto.git
+git clone 
 Abra o arquivo index.html no navegador.
 
 🚀 Melhorias futuras (ideias)
